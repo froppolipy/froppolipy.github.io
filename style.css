@@ -1,0 +1,27 @@
+body {
+    background-image: url(./ricardo-gomez-angel-4nT7pOdijSE-unsplash.jpg);
+    padding: 20px;
+}
+h1 {
+    font-size: 2em;
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a {
+    font-size: 150%;
+    color: darkblue;
+}
+p {
+    font-size: 114%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    font-size: 145%;
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+style {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 130%;
+    padding: 5px;
+}
